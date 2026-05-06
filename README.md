@@ -31,4 +31,3 @@ I love turning ideas into real-world digital experiences using clean and efficie
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sagorteasc&icon=0&color=0)](https://visitcount.itsvg.in)
